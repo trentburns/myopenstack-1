@@ -9,7 +9,7 @@
     9  ip addr
    10  yum repolist
    11  ip a s
-   12  reboot
+   12  reboot <<<<< This is Trents comment
    13  visudo 
    14  systemctl status sshd
    15  systemctl start sshd
